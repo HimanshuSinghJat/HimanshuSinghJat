@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently working on<br>→ Full-stack web development projects, including FinTrack<br><br>🤝 I'm looking to collaborate on<br>→ Web development, software, and innovative project ideas<br><br>🌱 I'm currently learning<br>→ Python, DSA, and improving my full-stack development skills<br><br>💬 Ask me about<br>→ HTML, CSS, JavaScript, React, and basic web development<br><br>⚡ Fun fact<br>→ I enjoy building practical projects and participating in hackathons
+🚀 I'm currently working on<br>→ Building responsive web applications with creative UI/UX designs and smart IoT-based systems<br><br>🤝 I'm looking to collaborate on<br>→ Web development, software, and innovative project ideas<br><br>🌱 I'm currently learning<br>→ Python, DSA, and improving my full-stack development skills<br><br>💬 Ask me about<br>→ HTML, CSS, JavaScript, React, and basic web development<br><br>⚡ Fun fact<br>→ I enjoy building practical projects and participating in hackathons
 
 
 # 💻 Tech Stack:
